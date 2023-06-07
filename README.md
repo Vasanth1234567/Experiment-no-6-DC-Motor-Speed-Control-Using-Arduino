@@ -53,5 +53,5 @@ Simulation with Code:
 Simulation:
 ![Screenshot (140)](https://github.com/Vasanth1234567/Experiment-no-6-DC-Motor-Speed-Control-Using-Arduino/assets/86919099/47ad7ac2-c2dc-40bf-96a4-4bc8303335e9)
 
-### RESULTS AND DISCUSSION 
+### RESULTS
 Thus we have controled the speed and direction of a DC motor using L293D driver ic(H-bridge)
